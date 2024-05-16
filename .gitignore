@@ -1,0 +1,7 @@
+rsconnect/
+.Rproj.user/
+*.Rproj
+*.Rhistory
+*.Rdata
+*.txt
+*.pdf
