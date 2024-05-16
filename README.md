@@ -41,7 +41,7 @@ The Shiny apps have been deployed to Shiny.io. The `rsconnect` directory is incl
 
 ### Report
 
-A detailed report of the data curation and analysis process is included as `output/report.pdf`.
+A detailed report of the data curation is included as `report.pdf`.
 
 ## How to Run the Code
 
